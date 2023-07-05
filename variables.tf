@@ -8,3 +8,4 @@ variable "az" {
 
 variable "default_vpc_id" {}
 variable "default_vpc_rt" {}
+
